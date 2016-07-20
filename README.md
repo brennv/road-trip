@@ -1,6 +1,6 @@
 # road-trip
 
-Methods for using genome algorithms to calculate optimal road trips.
+Methods for using genome algorithms to calculate optimal road trips as demonstrated by [rhiever](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/optimal-road-trip).
 
 ## Usage
 
