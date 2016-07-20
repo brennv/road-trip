@@ -4,7 +4,7 @@ Methods for using genome algorithms to calculate optimal road trips as demonstra
 
 ## Usage
 
-Obtain a [google maps api key](https://console.developers.google.com) for the distance matrix, install requirements and run the script.
+Obtain a [google maps api key](https://console.developers.google.com), install requirements and run the script.
 
 ```
 virtualenv -p python2 env
