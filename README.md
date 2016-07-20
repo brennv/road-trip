@@ -10,7 +10,7 @@ Obtain a [google maps api key](https://console.developers.google.com) for the di
 virtualenv -p python2 env
 source env/bin/activate
 pip install -r requirements.txt
-export GOOGLE_MAPS_API_KEY=AIzaSyBmqS5Oi2YPTeHiWQCAfhKc_4f2IhU08ps  #your-api-key
+export GOOGLE_MAPS_API_KEY=your-api-key
 
 python trip.py
 ```
