@@ -1,0 +1,301 @@
+waypoint1	waypoint2	distance_m	duration_s
+Washington, DC	Philadelphia, Pennsylvania 	223724	8903
+Tampa, Florida	Baltimore, Maryland 	1524119	49702
+Charlotte, North Carolina 	San Francisco, California	4374055	140217
+Houston, Texas 	Washington, DC	2266641	73259
+Washington, DC	Detroit, Michigan 	842787	28941
+Chicago, Illinois	Baltimore, Maryland 	1131782	38259
+Riverside, California 	Detroit, Michigan 	3623813	114890
+Cleveland, Ohio	Memphis, Tennessee	1176393	38630
+Tampa, Florida	Charlotte, North Carolina 	932025	30804
+Los Angeles, California 	Jacksonville, Florida	3886019	121628
+Memphis, Tennessee	Birmingham, Alabama	383259	12751
+Charlotte, North Carolina 	Baltimore, Maryland 	716966	24134
+Miami, Florida 	Birmingham, Alabama	1303180	40629
+Los Angeles, California 	Chicago, Illinois	3242547	102929
+Cleveland, Ohio	Birmingham, Alabama	1151790	37331
+Houston, Texas 	New Orleans, Louisiana 	560523	18494
+Orlando, Florida	Miami, Florida 	379794	12056
+St. Louis, Missouri	New York, New York	1528959	51924
+Houston, Texas 	Birmingham, Alabama	1073662	34539
+Boston, Massachusetts	San Francisco, California	4988839	161091
+Los Angeles, California 	Charlotte, North Carolina 	3892372	124177
+Washington, DC	Richmond, Virginia	174901	6523
+St. Louis, Missouri	Orlando, Florida	1601211	50682
+St. Louis, Missouri	Washington, DC	1316537	45060
+Norfolk, Virginia	New Orleans, Louisiana 	1706275	54047
+Detroit, Michigan 	Charlotte, North Carolina 	1017056	35507
+Boston, Massachusetts	Los Angeles, California 	4800943	154080
+Los Angeles, California 	Atlanta, Georgia	3500639	111858
+Riverside, California 	New Orleans, Louisiana 	2963799	93065
+Dallas, Texas 	Miami, Florida 	2108759	67792
+St. Louis, Missouri	Dallas, Texas 	1015008	34844
+Philadelphia, Pennsylvania 	Baltimore, Maryland 	169512	6469
+Memphis, Tennessee	St. Louis, Missouri	455887	14776
+Riverside, California 	Chicago, Illinois	3191746	101093
+Memphis, Tennessee	Tampa, Florida	1349572	42867
+Orlando, Florida	Washington, DC	1361842	43301
+Cleveland, Ohio	Norfolk, Virginia	895577	31056
+Dallas, Texas 	New Orleans, Louisiana 	814327	26474
+Washington, DC	Tampa, Florida	1451086	47410
+St. Louis, Missouri	Birmingham, Alabama	804785	25596
+Houston, Texas 	Norfolk, Virginia	2223744	70485
+Detroit, Michigan 	Norfolk, Virginia	1142202	38816
+Los Angeles, California 	Richmond, Virginia	4211024	134116
+Atlanta, Georgia	Baltimore, Maryland 	1100607	36590
+Dallas, Texas 	Baltimore, Maryland 	2198747	71688
+Houston, Texas 	Los Angeles, California 	2488120	77759
+Memphis, Tennessee	Washington, DC	1410851	46228
+Orlando, Florida	Birmingham, Alabama	939507	29457
+Riverside, California 	Philadelphia, Pennsylvania 	4311710	139151
+New York, New York	Orlando, Florida	1734295	55927
+St. Louis, Missouri	Philadelphia, Pennsylvania 	1425307	47921
+Jacksonville, Florida	Baltimore, Maryland 	1208865	38435
+Memphis, Tennessee	New York, New York	1762194	58032
+Atlanta, Georgia	San Francisco, California	3981138	127903
+Boston, Massachusetts	Riverside, California 	4758008	152574
+Dallas, Texas 	Charlotte, North Carolina 	1651108	53181
+Houston, Texas 	Memphis, Tennessee	913656	31379
+New York, New York	New Orleans, Louisiana 	2099614	68684
+Cleveland, Ohio	New Orleans, Louisiana 	1701151	54843
+Chicago, Illinois	Miami, Florida 	2217985	71325
+Richmond, Virginia	Jacksonville, Florida	963717	29994
+Boston, Massachusetts	Norfolk, Virginia	926240	34442
+Cleveland, Ohio	Riverside, California 	3723990	118745
+Riverside, California 	New York, New York	4442201	142851
+Chicago, Illinois	Charlotte, North Carolina 	1216649	41291
+Los Angeles, California 	New Orleans, Louisiana 	3046216	95790
+Memphis, Tennessee	Jacksonville, Florida	1172116	37355
+San Francisco, California	Baltimore, Maryland 	4532245	147027
+Houston, Texas 	Atlanta, Georgia	1276085	40136
+Boston, Massachusetts	Baltimore, Maryland 	650936	22753
+Orlando, Florida	Detroit, Michigan 	1872996	60068
+Riverside, California 	Miami, Florida 	4316819	134524
+Atlanta, Georgia	Detroit, Michigan 	1159139	38213
+Chicago, Illinois	San Francisco, California	3423820	110417
+Miami, Florida 	Tampa, Florida	453589	14406
+Cleveland, Ohio	Philadelphia, Pennsylvania 	693804	24010
+Chicago, Illinois	Norfolk, Virginia	1424874	48186
+Houston, Texas 	Richmond, Virginia	2129069	68149
+Birmingham, Alabama	Philadelphia, Pennsylvania 	1417883	46636
+Boston, Massachusetts	Memphis, Tennessee	2107291	69953
+St. Louis, Missouri	Detroit, Michigan 	852285	28690
+New York, New York	Richmond, Virginia	547353	19149
+Memphis, Tennessee	Baltimore, Maryland 	1470549	48063
+Tampa, Florida	New Orleans, Louisiana 	1056651	33265
+Riverside, California 	Dallas, Texas 	2231662	70344
+Richmond, Virginia	Philadelphia, Pennsylvania 	407513	14361
+Cleveland, Ohio	Jacksonville, Florida	1446734	46835
+Cleveland, Ohio	Dallas, Texas 	1904029	62018
+Philadelphia, Pennsylvania 	Jacksonville, Florida	1368445	43982
+Memphis, Tennessee	Norfolk, Virginia	1475310	48298
+Jacksonville, Florida	San Francisco, California	4499059	140993
+Riverside, California 	Jacksonville, Florida	3804887	118919
+Houston, Texas 	Jacksonville, Florida	1400326	44331
+St. Louis, Missouri	Norfolk, Virginia	1470674	48415
+New York, New York	Baltimore, Maryland 	309352	11257
+Memphis, Tennessee	Richmond, Virginia	1327269	43059
+Detroit, Michigan 	Jacksonville, Florida	1631027	54475
+New York, New York	Charlotte, North Carolina 	1016385	34469
+Houston, Texas 	Riverside, California 	2406962	74915
+Norfolk, Virginia	Birmingham, Alabama	1193283	38321
+Washington, DC	Norfolk, Virginia	313239	11477
+Houston, Texas 	Charlotte, North Carolina 	1669472	53325
+Orlando, Florida	Charlotte, North Carolina 	842780	26695
+Washington, DC	San Francisco, California	4527977	147416
+Los Angeles, California 	Birmingham, Alabama	3264175	103723
+Boston, Massachusetts	Washington, DC	704493	25369
+New York, New York	San Francisco, California	4674275	152176
+Cleveland, Ohio	San Francisco, California	3960224	127517
+Boston, Massachusetts	St. Louis, Missouri	1919523	63280
+Washington, DC	Charlotte, North Carolina 	643933	21842
+St. Louis, Missouri	Chicago, Illinois	477530	15640
+Cleveland, Ohio	Boston, Massachusetts	1029621	34261
+Chicago, Illinois	Richmond, Virginia	1286536	43232
+Miami, Florida 	Jacksonville, Florida	558345	17870
+Atlanta, Georgia	Philadelphia, Pennsylvania 	1258732	41867
+Chicago, Illinois	Birmingham, Alabama	1065940	35187
+Philadelphia, Pennsylvania 	San Francisco, California	4624907	150169
+St. Louis, Missouri	Charlotte, North Carolina 	1150421	38289
+Los Angeles, California 	Riverside, California 	94220	3526
+Los Angeles, California 	Dallas, Texas 	2312820	73187
+Los Angeles, California 	Washington, DC	4295210	137745
+Detroit, Michigan 	New Orleans, Louisiana 	1717309	55791
+Boston, Massachusetts	Birmingham, Alabama	1891581	62807
+New Orleans, Louisiana 	Philadelphia, Pennsylvania 	1971089	64298
+Dallas, Texas 	San Francisco, California	2787583	90216
+Richmond, Virginia	Tampa, Florida	1278971	41260
+Miami, Florida 	San Francisco, California	5010913	156895
+New York, New York	Washington, DC	363732	13759
+Los Angeles, California 	St. Louis, Missouri	2936714	93102
+Jacksonville, Florida	Charlotte, North Carolina 	616770	19538
+Los Angeles, California 	Memphis, Tennessee	2884200	91244
+Houston, Texas 	Miami, Florida 	1912878	59838
+Norfolk, Virginia	Baltimore, Maryland 	386272	13769
+Miami, Florida 	Charlotte, North Carolina 	1174456	37138
+Miami, Florida 	Baltimore, Maryland 	1766960	56141
+Memphis, Tennessee	New Orleans, Louisiana 	636755	20268
+Houston, Texas 	Detroit, Michigan 	2094083	70100
+Chicago, Illinois	Orlando, Florida	1862366	60273
+Riverside, California 	Washington, DC	4244409	135909
+Norfolk, Virginia	San Francisco, California	4773967	155187
+Orlando, Florida	Norfolk, Virginia	1212431	38553
+New Orleans, Louisiana 	Charlotte, North Carolina 	1149135	36831
+St. Louis, Missouri	Riverside, California 	2888699	91665
+Washington, DC	Atlanta, Georgia	1027570	34155
+Houston, Texas 	St. Louis, Missouri	1252417	44142
+New York, New York	Birmingham, Alabama	1546408	51022
+Dallas, Texas 	Washington, DC	2138283	69667
+Washington, DC	Jacksonville, Florida	1135832	36144
+Cleveland, Ohio	St. Louis, Missouri	902221	30094
+Chicago, Illinois	New Orleans, Louisiana 	1491900	47849
+Dallas, Texas 	Philadelphia, Pennsylvania 	2361102	77085
+Boston, Massachusetts	Tampa, Florida	2166881	71714
+New York, New York	Miami, Florida 	2063928	66372
+Detroit, Michigan 	Richmond, Virginia	1003864	33862
+Los Angeles, California 	Miami, Florida 	4397976	137368
+St. Louis, Missouri	Tampa, Florida	1624165	51467
+Boston, Massachusetts	Richmond, Virginia	886923	30702
+Memphis, Tennessee	San Francisco, California	3365936	107752
+Boston, Massachusetts	Detroit, Michigan 	1137425	38630
+Houston, Texas 	Boston, Massachusetts	2963472	97152
+Los Angeles, California 	Norfolk, Virginia	4359065	139355
+Houston, Texas 	Tampa, Florida	1577883	49860
+St. Louis, Missouri	New Orleans, Louisiana 	1089175	34778
+Boston, Massachusetts	New York, New York	346503	13024
+Riverside, California 	Orlando, Florida	3953145	123353
+Houston, Texas 	Orlando, Florida	1554929	49075
+Atlanta, Georgia	Birmingham, Alabama	236193	7831
+New York, New York	Tampa, Florida	1823539	60037
+Birmingham, Alabama	Charlotte, North Carolina 	628322	20870
+New York, New York	Norfolk, Virginia	584378	22910
+New York, New York	Chicago, Illinois	1270086	43295
+Tampa, Florida	San Francisco, California	4676617	146523
+Memphis, Tennessee	Atlanta, Georgia	618295	20377
+Washington, DC	Baltimore, Maryland 	62186	3695
+Chicago, Illinois	Detroit, Michigan 	466640	15549
+Houston, Texas 	Chicago, Illinois	1743612	57928
+Miami, Florida 	Richmond, Virginia	1519913	47520
+Richmond, Virginia	San Francisco, California	4630480	149017
+Boston, Massachusetts	Atlanta, Georgia	1739501	58333
+Cleveland, Ohio	Richmond, Virginia	762057	26076
+Dallas, Texas 	Richmond, Virginia	2054906	66447
+Orlando, Florida	Jacksonville, Florida	226443	7504
+Atlanta, Georgia	Norfolk, Virginia	907823	30842
+Richmond, Virginia	Charlotte, North Carolina 	468275	15677
+Cleveland, Ohio	Orlando, Florida	1672744	53992
+Dallas, Texas 	Norfolk, Virginia	2213888	70612
+Norfolk, Virginia	Jacksonville, Florida	986421	31396
+Chicago, Illinois	Jacksonville, Florida	1707864	55548
+Chicago, Illinois	Dallas, Texas 	1490155	50034
+Dallas, Texas 	Jacksonville, Florida	1601434	52137
+Boston, Massachusetts	Chicago, Illinois	1583255	52818
+Miami, Florida 	Norfolk, Virginia	1543041	48894
+Atlanta, Georgia	Tampa, Florida	733675	22954
+Boston, Massachusetts	Orlando, Florida	2073952	67518
+Los Angeles, California 	Tampa, Florida	4063576	127157
+Boston, Massachusetts	Charlotte, North Carolina 	1354215	46041
+Orlando, Florida	Baltimore, Maryland 	1434875	45592
+Houston, Texas 	Philadelphia, Pennsylvania 	2489460	80676
+Riverside, California 	Birmingham, Alabama	3213038	101971
+Houston, Texas 	San Francisco, California	3101057	97286
+New York, New York	Philadelphia, Pennsylvania 	156086	6384
+St. Louis, Missouri	Richmond, Virginia	1323036	43073
+Los Angeles, California 	San Francisco, California	614550	20311
+New Orleans, Louisiana 	Baltimore, Maryland 	1807968	58715
+Miami, Florida 	New Orleans, Louisiana 	1393920	43451
+Dallas, Texas 	Orlando, Florida	1756037	56881
+Memphis, Tennessee	Charlotte, North Carolina 	1011455	33204
+Miami, Florida 	Philadelphia, Pennsylvania 	1924088	61583
+St. Louis, Missouri	San Francisco, California	3306328	107119
+New Orleans, Louisiana 	San Francisco, California	3659257	115156
+Los Angeles, California 	Baltimore, Maryland 	4255782	137373
+Cleveland, Ohio	Tampa, Florida	1761988	58102
+Washington, DC	Birmingham, Alabama	1195064	39218
+Memphis, Tennessee	Orlando, Florida	1326618	42081
+Chicago, Illinois	Washington, DC	1128748	38517
+Birmingham, Alabama	New Orleans, Louisiana 	552256	17927
+Cleveland, Ohio	Charlotte, North Carolina 	829031	28082
+Detroit, Michigan 	Tampa, Florida	1895950	60854
+Detroit, Michigan 	Baltimore, Maryland 	849109	28889
+Riverside, California 	San Francisco, California	702858	22904
+Dallas, Texas 	Tampa, Florida	1778992	57666
+Riverside, California 	Atlanta, Georgia	3449838	110023
+Norfolk, Virginia	Tampa, Florida	1301675	42662
+Riverside, California 	Tampa, Florida	3982618	124280
+Washington, DC	Miami, Florida 	1691476	53745
+Memphis, Tennessee	Dallas, Texas 	728081	23575
+Detroit, Michigan 	San Francisco, California	3855887	124214
+Riverside, California 	Baltimore, Maryland 	4207209	135900
+Memphis, Tennessee	Miami, Florida 	1685282	53175
+Los Angeles, California 	Philadelphia, Pennsylvania 	4362510	140987
+Birmingham, Alabama	San Francisco, California	3745858	119763
+Norfolk, Virginia	Philadelphia, Pennsylvania 	444538	18122
+Los Angeles, California 	New York, New York	4493002	144687
+Richmond, Virginia	Baltimore, Maryland 	247934	8814
+Norfolk, Virginia	Charlotte, North Carolina 	526195	18592
+Orlando, Florida	Richmond, Virginia	1189726	37151
+St. Louis, Missouri	Miami, Florida 	1960601	61678
+Orlando, Florida	Tampa, Florida	135558	4811
+Birmingham, Alabama	Baltimore, Maryland 	1254763	41053
+Cleveland, Ohio	Baltimore, Maryland 	601142	20867
+Chicago, Illinois	Tampa, Florida	1885320	61059
+St. Louis, Missouri	Jacksonville, Florida	1446709	45956
+Atlanta, Georgia	Richmond, Virginia	853561	27968
+Riverside, California 	Charlotte, North Carolina 	3841967	123062
+St. Louis, Missouri	Atlanta, Georgia	892759	28721
+Orlando, Florida	New Orleans, Louisiana 	1033696	32479
+Dallas, Texas 	Atlanta, Georgia	1257681	40266
+Houston, Texas 	New York, New York	2617985	85063
+Cleveland, Ohio	Detroit, Michigan 	271967	9874
+Houston, Texas 	Cleveland, Ohio	2089605	69822
+Detroit, Michigan 	Philadelphia, Pennsylvania 	939718	31695
+Cleveland, Ohio	New York, New York	743171	26016
+Boston, Massachusetts	Miami, Florida 	2405853	77884
+Chicago, Illinois	Atlanta, Georgia	1152149	38316
+Los Angeles, California 	Orlando, Florida	4040622	126372
+Tampa, Florida	Philadelphia, Pennsylvania 	1683699	55249
+St. Louis, Missouri	Baltimore, Maryland 	1320806	44671
+Boston, Massachusetts	New Orleans, Louisiana 	2442066	80540
+New York, New York	Jacksonville, Florida	1508285	48770
+New York, New York	Dallas, Texas 	2489627	81471
+Dallas, Texas 	Detroit, Michigan 	1910005	62379
+Riverside, California 	Norfolk, Virginia	4309380	138040
+New York, New York	Atlanta, Georgia	1401569	46950
+Houston, Texas 	Dallas, Texas 	384816	12221
+Cleveland, Ohio	Atlanta, Georgia	1143916	37326
+Dallas, Texas 	Birmingham, Alabama	1025658	32904
+Richmond, Virginia	New Orleans, Louisiana 	1607836	51553
+Memphis, Tennessee	Chicago, Illinois	858306	27837
+Cleveland, Ohio	Los Angeles, California 	3772328	120506
+Philadelphia, Pennsylvania 	Charlotte, North Carolina 	876545	29681
+Boston, Massachusetts	Philadelphia, Pennsylvania 	498159	18118
+Miami, Florida 	Detroit, Michigan 	2226981	71170
+Houston, Texas 	Baltimore, Maryland 	2327291	75499
+New York, New York	Detroit, Michigan 	989085	33701
+Riverside, California 	Richmond, Virginia	4160541	132688
+Cleveland, Ohio	Miami, Florida 	2000557	64596
+Chicago, Illinois	Philadelphia, Pennsylvania 	1221766	40980
+Atlanta, Georgia	Jacksonville, Florida	556219	17443
+Tampa, Florida	Jacksonville, Florida	319273	11574
+Cleveland, Ohio	Chicago, Illinois	554639	19244
+Memphis, Tennessee	Philadelphia, Pennsylvania 	1633670	53646
+Atlanta, Georgia	New Orleans, Louisiana 	757127	23749
+Boston, Massachusetts	Jacksonville, Florida	1851626	60447
+Boston, Massachusetts	Dallas, Texas 	2834927	93342
+Orlando, Florida	San Francisco, California	4653662	145737
+Norfolk, Virginia	Richmond, Virginia	150197	5872
+Atlanta, Georgia	Charlotte, North Carolina 	393964	13145
+Los Angeles, California 	Detroit, Michigan 	3674614	116726
+Washington, DC	New Orleans, Louisiana 	1748270	56880
+New Orleans, Louisiana 	Jacksonville, Florida	879093	27735
+Atlanta, Georgia	Miami, Florida 	1066340	33220
+Birmingham, Alabama	Jacksonville, Florida	790111	24834
+Birmingham, Alabama	Tampa, Florida	968979	30385
+Orlando, Florida	Atlanta, Georgia	710721	22169
+Orlando, Florida	Philadelphia, Pennsylvania 	1594455	51139
+Detroit, Michigan 	Birmingham, Alabama	1167949	38279
+Richmond, Virginia	Birmingham, Alabama	1092360	35638
+Memphis, Tennessee	Detroit, Michigan 	1196602	39464
+Memphis, Tennessee	Riverside, California 	2834636	89871
+Cleveland, Ohio	Washington, DC	596873	21256
