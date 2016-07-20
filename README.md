@@ -15,6 +15,14 @@ export GOOGLE_MAPS_API_KEY=your-api-key
 python trip.py
 ```
 
+## Results
+
+See output maps:
+
+https://rawgit.com/brennv/road-trip/master/Output_1.html
+
+https://rawgit.com/brennv/road-trip/master/Output_33138793.0.html
+
 ## Locations
 
 The list of waypoints can be changed in [trip.py](https://github.com/brennv/road-trip/blob/master/trip.py#L20):
@@ -44,11 +52,3 @@ The list of waypoints can be changed in [trip.py](https://github.com/brennv/road
 - Riverside California
 - Birmingham Alabama
 - Jacksonville Florida
-
-## Results
-
-See output maps:
-
-https://rawgit.com/brennv/road-trip/master/Output_1.html
-
-https://rawgit.com/brennv/road-trip/master/Output_33138793.0.html
