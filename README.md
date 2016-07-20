@@ -17,7 +17,7 @@ python trip.py
 
 ## Locations
 
-The list of waypoints can be changed in `trip.py`:
+The list of waypoints can be changed in [trip.py](https://github.com/brennv/road-trip/blob/master/trip.py#L20):
 
 - New York New York
 - Atlanta Georgia
