@@ -47,10 +47,8 @@ The list of waypoints can be changed in `trip.py`:
 
 ## Results
 
-See output html:
+See output maps:
 
-https://rawgit.com/brennv/roadtrip/master/Output_1.html
+https://rawgit.com/brennv/road-trip/master/Output_1.html
 
-https://rawgit.com/brennv/roadtrip/master/Output_15059940.0.html
-
-https://rawgit.com/brennv/roadtrip/master/Output_33138793.0.html
+https://rawgit.com/brennv/road-trip/master/Output_33138793.0.html
